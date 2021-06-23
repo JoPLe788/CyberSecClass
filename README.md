@@ -147,7 +147,7 @@ http://(your_elk_server_ip_address):5601/app/kibana
 **The playbook can be downloaded to the correct directory running this command:** 
 ```
 
-curl https://github.com/JoPLe788/JL_DUBootCamp/blob/main/Ansible/ELK_install.yml > /etc/ansible/roles/ELK_install.yml
+curl https://github.com/JoPLe788/CyberSecClass/blob/main/Ansible/ELK_install.yml > /etc/ansible/roles/ELK_install.yml
 
 ```
 
