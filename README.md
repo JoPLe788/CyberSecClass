@@ -70,7 +70,7 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet. 
 
 Only the Jump_Box_Provisioner and ELK_Stack machine can accept connections from the Internet. Access to these machines is only allowed from the following IP address:
-- 73.203.114.114
+- 83.136.182.55
 
 Machines within the network can only be accessed by SSH (Secure Shell).
 
